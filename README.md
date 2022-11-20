@@ -38,7 +38,7 @@ https://docs.google.com/document/d/1ZihM2imNhSe2m8owJ0nq8qfkkDqu9gRK/edit?usp=sh
 9. Develop a tiny expert system to identify type of animal using SWI Prolog
 
 
-10.Develop a tiny expert system to identify type of person depending on his gender, age, hobbies, number of contacts using SWI Prolog
+10. Develop a tiny expert system to identify type of person depending on his gender, age, hobbies, number of contacts using SWI Prolog
 
 
 
