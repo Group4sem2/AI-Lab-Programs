@@ -4,42 +4,41 @@ https://docs.google.com/document/d/1ZihM2imNhSe2m8owJ0nq8qfkkDqu9gRK/edit?usp=sh
 
 **List of Experiments**
 
-Write a program to implement Tic-tac-toe considering below given as current state and next turn is ‘X’- using AI approach.
-
-Or
-Write a program to implement Tic-tac-toe using AI approach.
-
-
-Write a program to implement Tic-tac-toe considering below given as current state and next turn is ‘X’ - using non-AI approach.
-
-Or
-Write a program to implement Tic-tac-toe using Non-AI approach.
-Write a program to implement 8-puzzle using misplaced tiles heuristic function.
-Or
-Write a program to implement 8-puzzle using Manhattan distance heuristic function
-Or
-Write a program to implement 8-puzzle using A* Algorithm heuristic function.
+1. Write a program to implement Tic-tac-toe considering below given as current state and next turn is ‘X’- using AI approach.
+                                                           OR
+   Write a program to implement Tic-tac-toe using AI approach.
 
 
-Develop a tiny expert system to predict whether a given person has cold and fever using SWI Prolog
+2. Write a program to implement Tic-tac-toe considering below given as current state and next turn is ‘X’ - using non-AI approach.
+                                                           OR
+   Write a program to implement Tic-tac-toe using Non-AI approach.
+
+3. Write a program to implement 8-puzzle using misplaced tiles heuristic function.
+                                                           OR
+   Write a program to implement 8-puzzle using Manhattan distance heuristic function
+                                                           OR
+   Write a program to implement 8-puzzle using A* Algorithm heuristic function.
 
 
-Develop a tiny expert system to predict fault in computer system using SWI Prolog
+4. Develop a tiny expert system to predict whether a given person has cold and fever using SWI Prolog
 
 
-Develop a tiny expert system to recommend book to a person depending on age, interest, language.
+5. Develop a tiny expert system to predict fault in computer system using SWI Prolog
 
 
-Write a program to implement Perceptron learning rule.
+6. Develop a tiny expert system to recommend book to a person depending on age, interest, language.
 
 
-Design a fuzzy set membership function for a number close to 5
+7. Write a program to implement Perceptron learning rule.
 
 
-Develop a tiny expert system to identify type of animal using SWI Prolog
+8. Design a fuzzy set membership function for a number close to 5
 
 
-Develop a tiny expert system to identify type of person depending on his gender, age, hobbies, number of contacts using SWI Prolog
+9. Develop a tiny expert system to identify type of animal using SWI Prolog
+
+
+10.Develop a tiny expert system to identify type of person depending on his gender, age, hobbies, number of contacts using SWI Prolog
 
 
 
