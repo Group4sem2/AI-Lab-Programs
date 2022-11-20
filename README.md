@@ -2,7 +2,7 @@
 https://docs.google.com/document/d/1ZihM2imNhSe2m8owJ0nq8qfkkDqu9gRK/edit?usp=sharing&amp;ouid=113415662626349728249&amp;rtpof=true&amp;sd=true
 
 
-List of Experiments for Practical Exam
+**List of Experiments**
 
 Write a program to implement Tic-tac-toe considering below given as current state and next turn is ‘X’- using AI approach.
 
