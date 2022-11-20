@@ -5,18 +5,18 @@ https://docs.google.com/document/d/1ZihM2imNhSe2m8owJ0nq8qfkkDqu9gRK/edit?usp=sh
 **List of Experiments**
 
 1. Write a program to implement Tic-tac-toe considering below given as current state and next turn is ‘X’- using AI approach.
-                                                           OR
+                                                           **OR**
    Write a program to implement Tic-tac-toe using AI approach.
 
 
 2. Write a program to implement Tic-tac-toe considering below given as current state and next turn is ‘X’ - using non-AI approach.
-                                                           OR
+                                                           **OR**
    Write a program to implement Tic-tac-toe using Non-AI approach.
 
 3. Write a program to implement 8-puzzle using misplaced tiles heuristic function.
-                                                           OR
+                                                           **OR**
    Write a program to implement 8-puzzle using Manhattan distance heuristic function
-                                                           OR
+                                                           **OR**
    Write a program to implement 8-puzzle using A* Algorithm heuristic function.
 
 
